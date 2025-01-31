@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700;900&family=Quicksand:wght@400;700&display=swap');
+
+/***** Typographie *****/
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.exo {
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 700;
+}
+
+.quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
+
+/***** Couleurs *****/
+.bg-primary {
+  background-color: #5B348B !important;
+}
+
+.bg-secondary {
+  background-color: #23272A !important; 
+}
+
+.bg-warning {
+  background-color: #CCA11D !important;
+}
+
+.text-primary {
+  color: #5B348B !important;
+}
+
+.text-secondary {
+  color: #23272A !important; 
+}
