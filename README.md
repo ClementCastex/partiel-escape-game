@@ -1,4 +1,4 @@
-# Escape Game - Enigmes en ligne
+# Escape Game 
 
 ## Description
 Ce projet est une application web permettant de créer, répondre et gérer des questions d'un escape game.
