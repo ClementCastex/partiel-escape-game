@@ -4,8 +4,9 @@ $title = "Ajouter une question"; // Ici pour changer le titre de la page
 include 'header.php'; 
 ?>
 <body class="bg-dark text-light">
-  <div class="container py-5">
-    <h1 class="exo text-primary text-center mb-4">Ajouter une question</h1>
+<div class="container py-5">
+  <a href="index.php" class="btn btn-secondary mb-4">Retour à l'accueil</a>
+  <h1 class="exo text-primary text-center mb-4">Ajouter une question</h1>
     <form action="traiter_ajout.php" method="POST" class="p-4 bg-secondary rounded shadow">
       <div class="mb-3">
         <label class="form-label">Question :</label>
