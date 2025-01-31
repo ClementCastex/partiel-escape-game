@@ -76,4 +76,4 @@ http://localhost/escape-game/
 ---
 
 ## Auteur
-Projet réalisé par [Votre Nom].
+Projet réalisé par Clément CASTEX.
