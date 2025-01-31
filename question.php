@@ -39,6 +39,7 @@ include 'header.php';
 ?>
 <body class="bg-dark text-light">
   <div class="container py-5">
+  <a href="index.php" class="btn btn-secondary mb-4">Retour à l'accueil</a>
     <div class="p-4 bg-secondary rounded shadow">
       <h1 class="exo text-primary text-center"><?php echo htmlspecialchars($question['question']); ?></h1>
       <p class="text-center">Taux de réussite : <span class="text-warning"><?php echo $taux_reussite; ?>%</span></p>
